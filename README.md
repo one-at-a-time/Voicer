@@ -21,7 +21,7 @@ So, as an alternative:
 ![app menu](resources/menu_and_sample_text.png)
 
 <video width="600" controls>
-  <source src="https://one-at-a-time.github.io/Voicer/sample_voice.mp4" type="video/mp4">
+  <source src="https://one-at-a-time.github.io/Voicer" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
