@@ -2,7 +2,7 @@
 
 # Voice your words with a minimalist interface with smooth n' clear output
 
-## Using Google's Text-To-Speech library 'gts'
+## Using Google's Text-To-Speech library 'gtts'
 
 `but it has only female voice`
 
