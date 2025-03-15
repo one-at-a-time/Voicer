@@ -27,10 +27,10 @@ def text_to_speech():
         
         pygame.mixer.quit()
         
-        # To preserve the voice
-        backup_file = "output_backup.mp3"
-        shutil.copy(filename, backup_file)
-        print(f"Backup copy created as {backup_file}")
+        # # To preserve the voice
+        # backup_file = "output_backup.mp3"
+        # shutil.copy(filename, backup_file)
+        # print(f"Backup copy created as {backup_file}")
         
         os.remove(filename)  # Clean up the file after playing
     except Exception as e:

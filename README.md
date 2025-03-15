@@ -18,19 +18,12 @@ So, as an alternative:
 
 ## Working Sample:
 
-[Watch the video here](https://one-at-a-time.github.io/Voicer/)
-
 
 ![app menu](docs/menu_and_sample_text.png)
 
-<video width="600" controls>
-  <source src="https://one-at-a-time.github.io/Voicer" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+![playback](https://github.com/user-attachments/assets/006d3c00-6c40-478f-b628-ac53444fa40a)
 
-![auddiioo](docs/output_backup.mp3)
-
-![auddiioo](docs/sample_voice.mp4)
+[Listen the audio here](https://one-at-a-time.github.io/Voicer/)
 
 
 ---
