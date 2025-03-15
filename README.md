@@ -1,6 +1,6 @@
 
 
-# Voice your words with a minimalist interface with smooth n' clear output
+# Voice your words with a minimalist interface
 
 ## Using Google's Text-To-Speech library 'gtts'
 
