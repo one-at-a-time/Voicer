@@ -19,6 +19,9 @@ So, as an alternative:
 
 ## working sample:
 
-![app menu](resources/image.png)
+![app menu](resources/menu_and_sample_text.png)
 
-[sample voice](resources/output_backup.mov)
+
+<video controls src="resources/outpsample_voice.mp4" title="Sample Voice"></video>
+
+---
