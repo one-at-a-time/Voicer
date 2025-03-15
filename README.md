@@ -15,9 +15,8 @@ So, as an alternative:
 
 ---
 
-<br>
 
-## working sample:
+## Working Sample:
 
 ![app menu](resources/menu_and_sample_text.png)
 
