@@ -22,6 +22,6 @@ So, as an alternative:
 ![app menu](resources/menu_and_sample_text.png)
 
 
-<video controls src="resources/outpsample_voice.mp4" title="Sample Voice"></video>
+<video controls src="resources/sample_voice.mp4" title="Sample Voice"></video>
 
 ---
