@@ -1,11 +1,13 @@
-# Free to use, easy interface, smooth and clear output
+
+
+# Voice your words with a minimalist interface with smooth n' clear output
 
 ## Using Google's Text-To-Speech library 'gts'
 
-`but it has only female voice `
+`but it has only female voice`
 
-So, as an alternative, we use:
+So, as an alternative:
 
-## Python's Text-To-Speech library 'pyttsx3'
+## Using Python's Text-To-Speech library 'pyttsx3'
 
 > which provides both: female and male voices
