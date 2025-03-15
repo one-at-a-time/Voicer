@@ -18,7 +18,7 @@ So, as an alternative:
 
 ## Working Sample:
 
-![app menu](resources/menu_and_sample_text.png)
+![app menu](docs/menu_and_sample_text.png)
 
 <video width="600" controls>
   <source src="https://one-at-a-time.github.io/Voicer" type="video/mp4">
