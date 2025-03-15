@@ -11,3 +11,14 @@ So, as an alternative:
 ## Using Python's Text-To-Speech library 'pyttsx3'
 
 > which provides both: female and male voices
+
+
+---
+
+<br>
+
+## working sample:
+
+![app menu](resources/image.png)
+
+[sample voice](resources/output_backup.mov)

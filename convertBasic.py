@@ -1,4 +1,5 @@
 import os
+import shutil
 import tkinter as tk
 from tkinter import messagebox
 
@@ -25,6 +26,12 @@ def text_to_speech():
             pygame.time.Clock().tick(10)
         
         pygame.mixer.quit()
+        
+        # # To preserve the voice
+        # backup_file = "output_backup.mp3"
+        # shutil.copy(filename, backup_file)
+        # print(f"Backup copy created as {backup_file}")
+        
         os.remove(filename)  # Clean up the file after playing
     except Exception as e:
         messagebox.showerror("Error", f"Speech generation failed: {e}")
