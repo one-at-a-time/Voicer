@@ -18,6 +18,9 @@ So, as an alternative:
 
 ## Working Sample:
 
+[Watch the video here](https://one-at-a-time.github.io/Voicer/)
+
+
 ![app menu](docs/menu_and_sample_text.png)
 
 <video width="600" controls>
