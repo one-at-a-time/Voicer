@@ -21,9 +21,7 @@ So, as an alternative:
 
 ![app menu](docs/menu_and_sample_text.png)
 
-![playback](https://github.com/user-attachments/assets/006d3c00-6c40-478f-b628-ac53444fa40a)
-
-[Listen the audio here](https://one-at-a-time.github.io/Voicer/)
+[Listen the audio here (in case the live playback interface doesn't show up below)](https://one-at-a-time.github.io/Voicer/)
 
 
 https://github.com/user-attachments/assets/006d3c00-6c40-478f-b628-ac53444fa40a
