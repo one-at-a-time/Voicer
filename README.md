@@ -22,6 +22,6 @@ So, as an alternative:
 ![app menu](resources/menu_and_sample_text.png)
 
 
-<video controls src="resources/sample_voice.mp4" title="Sample Voice"></video>
+[sample audio](https://github.com/user-attachments/assets/c3758d42-0fa9-4ded-9e1e-657146a75ab5)
 
 ---
